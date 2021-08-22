@@ -1,2 +1,2 @@
-# FullTextSearchEngine
-## 动手写全文搜索引擎
+# TinyTextSearchEngine
+## Simple全文搜索引擎
